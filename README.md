@@ -4,9 +4,9 @@ Computer Science student with an interest in Full-Stack Web-applications.
 I love working with GraphQL, so I use it a lot in my projects. I also like working with TypeScript.
 
 Currently working on:
-* [To-Do-List-App](https://github.com/Emil-Ey/To-Do-List-App) (In progress, but almost ready to deploy.)
+* [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App) (In progress, but almost ready to deploy.)
   * Made using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
-* [TravelBuddy-App](https://github.com/Emil-Ey/TravelBuddy) (In planning / design / preparation phase)
+* [TravelBuddy-app](https://github.com/Emil-Ey/TravelBuddy) (In planning / design / preparation phase)
   * Haven't decided which tools will be used for this project.
 
 <!--
