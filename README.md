@@ -10,6 +10,8 @@ Currently working on:
 * [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In planning / design / preparation phase)
   * Haven't decided which tools will be used for this project.
 
+Also check out my personal website: https://emil-ey.github.io/
+* Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
 <!--
 **Emil-Ey/Emil-Ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
