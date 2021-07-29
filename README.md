@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub
 
 Computer Science student with an interest in Full-Stack Web-applications.
 I love working with GraphQL, so I use it a lot in my projects. I also like working with TypeScript.
