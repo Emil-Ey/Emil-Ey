@@ -8,7 +8,7 @@ Currently working on:
   * Made using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
   * [Check it out](https://eybye-todo.xyz/)
 * [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In planning / design / preparation phase)
-  * Haven't decided which tools will be used for this project.
+  * For this project I will be using the famous MERN stack.
 
 Also check out my personal website: https://emil-ey.github.io/
 * Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
