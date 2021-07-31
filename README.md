@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub
 
 Computer Science student with an interest in Full-Stack Web-applications.
-I love working with GraphQL, so I use it a lot in my projects. I also like working with TypeScript.
+I love working with GraphQL, so I use it a lot in my projects. I also like working with TypeScript and React.
 
 Currently working on:
 * [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App) (Deployed, working on more features)
@@ -12,6 +12,8 @@ Currently working on:
 
 Also check out my personal website: https://emil-ey.github.io/
 * Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
+
+:speech_balloon: If you have any tips/comments/criticism I is very much appreciated! :speech_balloon:
 <!--
 **Emil-Ey/Emil-Ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
