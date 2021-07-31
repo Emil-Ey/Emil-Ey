@@ -13,7 +13,8 @@ Currently working on:
 Also check out my personal website: https://emil-ey.github.io/
 * Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
 
-:speech_balloon: If you have any tips/comments/criticism I is very much appreciated! :speech_balloon:
+:speech_balloon: If you have any tips/comments/criticism it is very much appreciated! :speech_balloon:
+:speech_balloon: Please message me on [LinkedIn](https://www.linkedin.com/in/emil-kj%C3%A6rgaard-eybye/) :speech_balloon:
 <!--
 **Emil-Ey/Emil-Ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
