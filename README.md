@@ -6,6 +6,7 @@ Currently working on:
 * [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App) (Deployed, working on more features)
   * Made using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
   * [Check it out](https://todolist-kappa.vercel.app/)
+  * Backend is no longer deployed, so no functionality works.
 * [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (Paused for now because of work and studies)
 
 Also check out my personal website: https://emil-ey.github.io/
