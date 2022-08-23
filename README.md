@@ -6,9 +6,8 @@ I love working with GraphQL, so I use it a lot in my projects. I also like worki
 Currently working on:
 * [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App) (Deployed, working on more features)
   * Made using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
-  * [Check it out](https://eybye-todo.xyz/)
-* [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In planning / design / preparation phase)
-  * For this project I will be using the famous MERN stack.
+  * [Check it out](https://todolist-kappa.vercel.app/)
+* [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (Paused for now because of work and studies)
 
 Also check out my personal website: https://emil-ey.github.io/
 * Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
