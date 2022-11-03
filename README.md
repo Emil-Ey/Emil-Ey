@@ -1,13 +1,13 @@
 ### Hi there 👋 Welcome to my GitHub
 
-Computer Science student with an interest in backend development, but also full-stack.
+Computer Science student with a passion for backend development.
 
 Currently working on:
-* [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App) (Deployed, working on more features)
-  * Made using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
-  * [Check it out](https://todolist-kappa.vercel.app/)
-  * Backend is no longer deployed, so no functionality works.
-* [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (Paused for now because of work and studies)
+* [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In development)
+  * Backend project with the following technologies: Typescript, NodeJS, NestJS, GraphQL, Apollo, MongoDB, TypeOrm
+  * 
+* [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App)
+  * Full-Stack projectMade using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
 
 Also check out my personal website: https://emil-ey.github.io/
 * Made using HTML, CSS, JavaScript and Bootstrap. Deployed using GitHub Pages.
