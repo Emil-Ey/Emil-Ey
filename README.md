@@ -5,7 +5,6 @@ Computer Science student with a passion for backend development.
 Currently working on:
 * [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In development)
   * Backend project with the following technologies: Typescript, NodeJS, NestJS, GraphQL, Apollo, MongoDB, TypeOrm
-  * 
 * [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App)
   * Full-Stack projectMade using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
 
