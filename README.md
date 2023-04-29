@@ -3,8 +3,13 @@
 Computer Science student with a passion for backend development.
 
 Currently working on:
+* CLI (In planning phase)
+  * Haven't decided on what CLI tool I want to create, but some useful CLI. Probably in Python.
+  * Ideas so far: Stack Overflow CLI, Weather CLI, Speed-test.net CLI, Calculator, Port scanner, 
 * [TravelBuddy app](https://github.com/Emil-Ey/TravelBuddy) (In development)
   * Backend project with the following technologies: Typescript, NodeJS, NestJS, GraphQL, Apollo, MongoDB, TypeOrm
+
+Older projects:
 * [ToDoList app](https://github.com/Emil-Ey/To-Do-List-App)
   * Full-Stack projectMade using GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql, Express, and Chakra UI.
 
